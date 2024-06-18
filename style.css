@@ -197,7 +197,7 @@ figcaption, figure, footer, header, main, nav, section {
     padding-top: 80px;
   }
 }
-@media (max-width: 1200px) {
+@media (min-width: 1200px) {
   .container {
     max-width: 1200px;
   }
